@@ -1,0 +1,62 @@
+{
+  "Technology": [
+    ["AAPL", "Apple Inc."],
+    ["MSFT", "Microsoft Corporation"],
+    ["GOOG", "Alphabet Inc. (Class C)"],
+    ["INTC", "Intel Corporation"],
+    ["AMD", "Advanced Micro Devices, Inc."],
+    ["NVDA", "NVIDIA Corporation"],
+    ["NFLX", "Netflix, Inc."],
+    ["ORCL", "Oracle Corporation"],
+    ["ADBE", "Adobe Inc."],
+    ["SAP", "SAP SE"]
+  ],
+  "Finance": [
+    ["JPM", "JPMorgan Chase & Co."],
+    ["BAC", "Bank of America Corporation"],
+    ["GS", "The Goldman Sachs Group, Inc."],
+    ["C", "Citigroup Inc."],
+    ["MS", "Morgan Stanley"],
+    ["WFC", "Wells Fargo & Company"],
+    ["BK", "The Bank of New York Mellon Corporation"],
+    ["BLK", "BlackRock, Inc."],
+    ["PNC", "PNC Financial Services Group, Inc."],
+    ["USB", "U.S. Bancorp"]
+  ],
+  "Healthcare": [
+    ["JNJ", "Johnson & Johnson"],
+    ["PFE", "Pfizer Inc."],
+    ["MRK", "Merck & Co., Inc."],
+    ["ABBV", "AbbVie Inc."],
+    ["TMO", "Thermo Fisher Scientific Inc."],
+    ["AMGN", "Amgen Inc."],
+    ["LLY", "Eli Lilly and Company"],
+    ["BMY", "Bristol-Myers Squibb Company"],
+    ["GILD", "Gilead Sciences, Inc."],
+    ["ZBH", "Zimmer Biomet Holdings, Inc."]
+  ],
+  "Energy": [
+    ["XOM", "Exxon Mobil Corporation"],
+    ["CVX", "Chevron Corporation"],
+    ["BP", "BP p.l.c."],
+    ["TOT", "TotalEnergies SE"],
+    ["COP", "ConocoPhillips"],
+    ["SLB", "Schlumberger Limited"],
+    ["KMI", "Kinder Morgan, Inc."],
+    ["EOG", "EOG Resources, Inc."],
+    ["PSX", "Phillips 66"],
+    ["HAL", "Halliburton Company"]
+  ],
+  "Consumer": [
+    ["AMZN", "Amazon.com, Inc."],
+    ["WMT", "Walmart Inc."],
+    ["PG", "The Procter & Gamble Company"],
+    ["KO", "The Coca-Cola Company"],
+    ["PEP", "PepsiCo, Inc."],
+    ["HD", "The Home Depot, Inc."],
+    ["NKE", "NIKE, Inc."],
+    ["MCD", "McDonald's Corporation"],
+    ["SBUX", "Starbucks Corporation"],
+    ["TGT", "Target Corporation"]
+  ]
+}
